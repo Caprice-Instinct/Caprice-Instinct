@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on building my portfolio on python projects
+- 🌱 I’m currently learning python and React
+
+- [![GitHub Streak](https://streak-stats.demolab.com?user=Caprice-Instinct&theme=dark)](https://git.io/streak-stats)
