@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python and React
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=Caprice-Instinct&theme=dark)](https://git.io/streak-stats)
+
+[![Caprice-Instinct's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caprice-Instinct)](https://github.com/anuraghazra/github-readme-stats)
