@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 
-[![Caprice-Instinct's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caprice-Instinct&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Caprice-Instinct's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caprice-Instinct&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
