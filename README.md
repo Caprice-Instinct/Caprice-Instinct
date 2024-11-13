@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building my portfolio on python projects
 - 🌱 I’m currently learning Python and React
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Caprice-Instinct&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Caprice-Instinct)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Caprice-Instinct&theme=dark)](https://git.io/streak-stats)
 
 
