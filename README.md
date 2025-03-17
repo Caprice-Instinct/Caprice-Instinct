@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on building my portfolio on python projects
-- 🌱 I’m currently learning Python and React
+- 🔭 I’m currently working on building my portfolio on NextJs
+- 🌱 I’m currently learning React, NextJs, Tailwind, ...
 
 
 
